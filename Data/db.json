@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "asdas",
+      "body": "asdas",
+      "author": "Nurlan",
+      "id": 1
+    },
+    {
+      "title": "asda",
+      "body": "asdas",
+      "author": "Novruz",
+      "id": 2
+    },
+    {
+      "title": "adaa",
+      "body": "asda",
+      "author": "Novruz",
+      "id": 3
+    }
+  ]
+}
